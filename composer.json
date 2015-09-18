@@ -1,0 +1,12 @@
+{
+    "name": "hairmare/cf-ex-php-compression",
+    "description": "Demonstrate that compression can be enabled using the php-buildpack.",
+    "license": "GPL-3",
+    "authors": [
+        {
+            "name": "Lucas Bickel",
+            "email": "hairmare@purplehaze.ch"
+        }
+    ],
+    "require": {}
+}
