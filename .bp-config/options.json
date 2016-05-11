@@ -1,5 +1,6 @@
 {
   "WEB_SERVER": "nginx",
   "PHP_VERSION": "{PHP_56_LATEST}",
+  "PHP_EXTENSIONS": ["yaf"],
   "NGINX_VERSION": "{NGINX_18_LATEST}"
 }
